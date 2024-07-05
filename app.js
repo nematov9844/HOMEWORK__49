@@ -39,7 +39,7 @@ function ArrayDefoult(arrays) {
 }
 // console.log(ArrayDefoult(4));
 
-// 4. argument sifatida qabul qilingan sonning mukammal yoki mukammal son emasligini aniqlaydigan function yarating
+// 4. argument sifatida qabul qilingan sonning mukammal yoki mukammal son emasligini aniqlaydig an function yarating
 
 const ArrayDefoult2 = (array) => {
   let res = 0;
